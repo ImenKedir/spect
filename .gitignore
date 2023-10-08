@@ -1,0 +1,18 @@
+.env
+	.env.example
+	.eslintrc.cjs
+	.next/
+	.vscode/
+	next-env.d.ts
+	next.config.mjs
+	node_modules/
+	package.json
+	pnpm-lock.yaml
+	postcss.config.cjs
+	prettier.config.cjs
+	prisma/
+	public/
+	python/
+	src/
+	tailwind.config.ts
+	tsconfig.json
